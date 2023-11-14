@@ -104,6 +104,3 @@ jobs:
           # на сервере и в docker-compose.yml не указывать версию
           tags: nastasiya2317/taski_backend:latest 
 
-
-
-
